@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flight-catalog/flight-catalog.iml" filepath="$PROJECT_DIR$/flight-catalog/flight-catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flightbooking.iml" filepath="$PROJECT_DIR$/flightbooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared-kernel/shared-kernel.iml" filepath="$PROJECT_DIR$/shared-kernel/shared-kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket-management/ticket-management.iml" filepath="$PROJECT_DIR$/ticket-management/ticket-management.iml" />
+    </modules>
+  </component>
+</project>

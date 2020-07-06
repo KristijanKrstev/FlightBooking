@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flightbooking" />
+        <module name="flight-catalog" />
+        <module name="ticket-management" />
+        <module name="shared-kernel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flight-catalog" target="11" />
+      <module name="flightbooking" target="1.5" />
+      <module name="shared-kernel" target="11" />
+      <module name="ticket-management" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
